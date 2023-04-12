@@ -1,0 +1,23 @@
+body { font-family: 'Lobster', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Satisfy', cursive;
+    
+}
+
+.name{
+    color: orange;
+    
+    
+
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left:5px;
+    padding-left: 2px;
+}
+
+.half-whdth img{
+    width: 100%;
+}
