@@ -1,4 +1,6 @@
-body { font-family: 'Lobster', cursive;
+body { background: 0px;
+    color: aliceblue;
+    font-family: 'Lobster', cursive;
     font-family: 'Roboto Condensed', sans-serif;
     font-family: 'Satisfy', cursive;
     
@@ -20,4 +22,18 @@ body { font-family: 'Lobster', cursive;
 
 .half-whdth img{
     width: 100%;
+}
+
+.top-banner{
+     background-image: url(img/img-03.jpg);
+     background-repeat: no-repeat;
+
+}
+section{
+    height: 500px;
+
+}
+p{
+    color: white;
+    
 }
